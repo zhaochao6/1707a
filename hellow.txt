@@ -1,5 +1,5 @@
 public void user{
-	private Interger username;
+	HQ gan ni
 	private String password:
 	asd
 	ni hne lihai
