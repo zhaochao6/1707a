@@ -1,6 +1,12 @@
 public void user{
+        HEAD
 	HQ gan ni
+        
+	private Interger age;
+	1707a
 	private String password:
 	asd
 	ni hne lihai
+i
+nike zheng lihai
 }
