@@ -2,4 +2,5 @@ public void user{
 	private Interger username;
 	private String password:
 	asd
+	ni hne lihai
 }
